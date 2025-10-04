@@ -28,21 +28,8 @@ This project demonstrates how to fetch product data from a JSON file, manage a c
 
 ---
 
-##  Project Structure
 
-minimal_shopping_cart/
-│── backend/
-│ ├── app.js # Express backend
-│ ├── products.json # Mock product data
-│
-│── frontend/
-│ ├── src/
-│ │ ├── App.js # Main React file
-│ │ ├── components/ # ProductGrid, Cart, Navbar
-│ │ └── ...
-│
-│── package.json
-│── README.md
+
 
 cd backend
 npm install
